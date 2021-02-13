@@ -7,7 +7,7 @@
 
 ## Installation
 
-As of right now this script only works with OSX. It requires you having [homebrew](https://brew.sh/) and at least Python 3.5.
+As of right now this script only works with OSX. It requires you having [homebrew](https://brew.sh/) and at least Python 3.
 
 ```bash
 sh setup.sh
