@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------
 
- A very specific implementation of an automated notes transcriber using [textract](https://github.com/deanmalmgren/textract) and a [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
+ An implementation of an automated notes transcriber using [Textract](https://github.com/deanmalmgren/textract) and [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 
 
 ## Installation
