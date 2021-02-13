@@ -5,11 +5,15 @@
  A very specific implementation of an automated notes transcriber using [textract](https://github.com/deanmalmgren/textract) and a [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 
 
-### Installation
+## Installation
 
+As of right now this script only works with OSX. It requires you having [homebrew](https://brew.sh/) as well as the cask plugin 'brew install caskroom/cask/brew-cask'. 
 
+'''bash
+sh setup.sh
+'''
 
-### Build Script
+## Build Script
 ```bash
 sh build.sh
 ```
