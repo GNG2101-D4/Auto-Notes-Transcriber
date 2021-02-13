@@ -14,6 +14,6 @@
 sh build.sh
 ```
 
-This uses [pyinstaller](https://github.com/pyinstaller/pyinstaller) to create a stand-alone executable of convert.py.
+This uses [pyinstaller](https://github.com/pyinstaller/pyinstaller) to create a stand-alone executable of convert.py
 
 Similar to installation this should work without issues on MACOS.
