@@ -7,7 +7,7 @@
 
 ## Installation
 
-As of right now this script only works with OSX. It requires you having [homebrew](https://brew.sh/) as well as the cask plugin
+As of right now this script only works with OSX. It requires you having [homebrew](https://brew.sh/) and at least Python 3.5.
 
 ```bash
 sh setup.sh
@@ -20,4 +20,4 @@ sh build.sh
 
 This uses [pyinstaller](https://github.com/pyinstaller/pyinstaller) to create a stand-alone executable of convert.py
 
-Similar to installation this should work without issues on MACOS.
+Similar to installation this should work without issues on MacOS.
