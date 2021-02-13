@@ -9,9 +9,9 @@
 
 As of right now this script only works with OSX. It requires you having [homebrew](https://brew.sh/) as well as the cask plugin 'brew install caskroom/cask/brew-cask'. 
 
-'''bash
+```bash
 sh setup.sh
-'''
+```
 
 ## Build Script
 ```bash
