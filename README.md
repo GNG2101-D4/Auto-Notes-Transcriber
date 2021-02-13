@@ -7,7 +7,7 @@
 
 ## Installation
 
-As of right now this script only works with OSX. It requires you having [homebrew](https://brew.sh/) as well as the cask plugin '<brew install caskroom/cask/brew-cask>' 
+As of right now this script only works with OSX. It requires you having [homebrew](https://brew.sh/) as well as the cask plugin
 
 ```bash
 sh setup.sh
