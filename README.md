@@ -13,11 +13,11 @@ As of right now this script only works with OSX. It requires you having [homebre
 sh setup.sh
 ```
 
-## Build Script
+## PyInstaller Build Script
 ```bash
 sh build.sh
 ```
 
-This uses [pyinstaller](https://github.com/pyinstaller/pyinstaller) to create a stand-alone executable of convert.py
+This uses [pyinstaller](https://github.com/pyinstaller/pyinstaller) to create a stand-alone executable of convert.py. Otherwise just run `convert.py` like any other .py file.
 
 Similar to installation this should work without issues on MacOS.
